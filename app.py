@@ -22,7 +22,7 @@ def start():
 
 @app.route("/alpha")
 def end():
-    data=get_user_submissions('Sushant81')
+    # data=get_user_submissions('Sushant81')
     return 'hi'
 
 
